@@ -9,11 +9,11 @@ Olá! 👋 Sou Eduardo Castro, um Analista de Sistemas JR e estudante de Ciênci
 
 ## 🚀 Habilidades
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🎓 Formação Acadêmica
 
@@ -42,13 +42,6 @@ Olá! 👋 Sou Eduardo Castro, um Analista de Sistemas JR e estudante de Ciênci
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocastro-dev&layout=compact&theme=radical)](https://github.com/eduardocastro-dev)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eduardocastro-dev&theme=dark)](https://github.com/eduardocastro-dev)
-
-## 📚 Certificações
-
-- Versionamento de código com GIT e GITHUB
-- Programação Python do Zero ao Avançado + 32 Projetos Reais
-- ECONOMIA CIRCULAR
-- COMPETÊNCIA TRANSVERSAL - SEGURANÇA NO TRABALHO
 
 ---
 
