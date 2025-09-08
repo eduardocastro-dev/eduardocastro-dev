@@ -21,8 +21,11 @@ Olá! 👋 Sou Eduardo Castro, um Analista de Sistemas JR e estudante de Ciênci
 
 ## 💼 Experiência Profissional
 
+### DIGIAGE
+- **Analista** (Ago 2025)
+
 ### GZ Sistemas
-- **Analista de Sistema** (fev 2024 - Presente)
+- **Analista de Sistema** (fev 2024 - jul 2025)
 - **Analista de Suporte de TI** (dez 2022 - fev 2024)
 - **Trainee** (mai 2022 - nov 2022)
 
