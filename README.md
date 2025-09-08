@@ -5,7 +5,7 @@ Olá! 👋 Sou Eduardo Castro, um Analista de Sistemas JR e estudante de Ciênci
 
 [![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Castro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-castro-138301187/)](https://www.linkedin.com/in/eduardo-castro-138301187/)
 [![Gmail Badge](https://img.shields.io/badge/-eduardocastro.technology@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardocastro.technology@gmail.com)](mailto:eduardocastro.technology@gmail.com)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-eduardocastro--dev.github.io-brightgreen)]([https://eduardocastro-dev.github.io/Portifolio/](https://blog.techlegacy.com.br/))
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-eduardocastro--dev.github.io-brightgreen)](https://blog.techlegacy.com.br/)
 
 ## 🚀 Habilidades
 
