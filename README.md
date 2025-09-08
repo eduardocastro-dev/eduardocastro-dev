@@ -52,8 +52,7 @@ Olá! 👋 Sou Eduardo Castro, um Analista de Sistemas JR e estudante de Ciênci
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocastro-dev&layout=compact&theme=radical)](https://github.com/eduardocastro-dev)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=eduardocastro-dev&theme=dark)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=eduardocastro-dev)](https://git.io/streak-stats)
 
 ---
 
