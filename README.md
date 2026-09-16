@@ -76,10 +76,6 @@ Atuo em ambiente produtivo de integração de dados, apps e dispositivos, dando 
 
 ## 📊 Estatísticas do GitHub
 
-[![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardocastro-dev&show_icons=true&theme=radical)](https://github.com/eduardocastro-dev)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocastro-dev&layout=compact&theme=radical)](https://github.com/eduardocastro-dev)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=eduardocastro-dev&theme=radical&hide_border=true&border_radius=8)](https://git.io/streak-stats)
 
 ---
