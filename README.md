@@ -3,7 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eduardocastro-dev/eduardocastro-dev/main/2026-09-22_21-22.png" width="1080" />
+  <img
+    src="https://raw.githubusercontent.com/eduardocastro-dev/eduardocastro-dev/main/4bcf1dbb-d2ae-4369-9881-4024d415dc8b.png"
+    width="1080"
+    alt="Eduardo Castro - Profile"
+  />
 </p>
 
 <p align="center">
