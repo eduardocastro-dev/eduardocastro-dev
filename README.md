@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/eduardocastro-dev/eduardocastro-dev/main/2026-09-22_21-22.png" width="1080" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/eduardoalmeida-dev/">
     <img src="https://img.shields.io/badge/-Eduardo%20Castro-4EA1F3?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
